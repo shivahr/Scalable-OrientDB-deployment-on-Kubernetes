@@ -1,3 +1,5 @@
+**Note**: This is a work in progress.
+
 # Multi-pod deployment of OrientDB on Bluemix Kubernetes cluster
 
 ## Impact of simply increasing the number of replicas in existing ReplicationController
